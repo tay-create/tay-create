@@ -9,7 +9,7 @@ Desenvolvedor focado em soluções web modernas e automação. Atualmente trabal
 * **Ferramentas:** Git, Vercel, Electron
 
 ### (Lucide: BarChart3) Estatísticas do GitHub
-![Seu Nome Github Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
+![Seu Nome Github Stats](https://github-readme-stats.vercel.app/api?username=tay-create&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)
 
 
