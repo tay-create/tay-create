@@ -1,16 +1,17 @@
-## Hi there 👋
+# (Lucide: Terminal) Olá, eu sou [Seu Nome]
 
-<!--
-**tay-create/tay-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### (Lucide: Code2) Sobre Mim
+Desenvolvedor focado em soluções web modernas e automação. Atualmente trabalhando em projetos de logística e dashboards operacionais.
 
-Here are some ideas to get you started:
+### (Lucide: Cpu) Minha Stack
+* **Frontend:** React, JavaScript, CSS3
+* **Backend:** Node.js, Python
+* **Ferramentas:** Git, Vercel, Electron
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### (Lucide: BarChart3) Estatísticas do GitHub
+![Seu Nome Github Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)
+
+### (Lucide: Mail) Contato
+(Lucide: Linkedin) [Seu LinkedIn](link)
+(Lucide: Globe) [Seu Portfólio](link)
