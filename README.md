@@ -12,6 +12,4 @@ Desenvolvedor focado em soluções web modernas e automação. Atualmente trabal
 ![Seu Nome Github Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)
 
-### (Lucide: Mail) Contato
-(Lucide: Linkedin) [Seu LinkedIn](link)
-(Lucide: Globe) [Seu Portfólio](link)
+
