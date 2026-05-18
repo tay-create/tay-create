@@ -35,8 +35,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tay-create&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tay-create&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa" />
+<img height="165" src="https://gh-readme-stats.vercel.app/api?username=tay-create&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
+<img height="165" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=tay-create&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa" />
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tay-create&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 
@@ -49,16 +49,16 @@
 <div align="center">
 
 <a href="https://github.com/tay-create/transnet-operacional-v2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tay-create&repo=transnet-operacional-v2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
+  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=tay-create&repo=transnet-operacional-v2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
 </a>
 <a href="https://github.com/tay-create/posembarque-v2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tay-create&repo=posembarque-v2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
+  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=tay-create&repo=posembarque-v2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
 </a>
 <a href="https://github.com/tay-create/Licenciamento">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tay-create&repo=Licenciamento&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
+  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=tay-create&repo=Licenciamento&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
 </a>
 <a href="https://github.com/tay-create/baixar-video-yt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tay-create&repo=baixar-video-yt&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
+  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=tay-create&repo=baixar-video-yt&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
 </a>
 
 </div>
