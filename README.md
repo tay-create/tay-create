@@ -8,7 +8,6 @@
 
 ### About me
 
-- Currently working on **[Transnet-Operacional-v2](https://github.com/tay-create/transnet-operacional-v2)** — a logistics system maneger
 - Currently learning **Artificial Intelligence** and **PHP**
 - Based in **Recife / PE, Brazil**
 - Reach me at **williamswilll14@gmail.com**
